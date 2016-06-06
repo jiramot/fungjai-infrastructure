@@ -146,4 +146,4 @@ Cloud เหมือน Startup คนอื่นๆหรือไม่?
  
 
 ตอนต่อไปเด๋วจะมาเล่าให้ฟังว่าเราจัดการ Server ทั้งหมดของเราด้วย Ansible ยังไง[
-(Infrastructure as Core)](fungjai-infra-2.md)
+(Infrastructure as Core)](http://goo.gl/7qtDM0)
