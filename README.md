@@ -142,5 +142,4 @@ Cloud เหมือน Startup คนอื่นๆหรือไม่?
 
 
 
-
-**​                                							     |     [ตอนต่อไป การมาของ Mobile App >>](http://goo.gl/7qtDM0)**
+**[ตอนต่อไป การมาของ Mobile App >>](https://goo.gl/7qtDM0)**
