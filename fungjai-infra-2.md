@@ -140,4 +140,6 @@ fungjai api v1 with restify and redis
 
 
 
-**[<<  ตอนก่อนหน้า จุดเริ่มต้นของปัญหา](README.md) | [ตอนต่อไป เมื่อ Server ใหม่มาถึง](https://goo.gl/VcEPYd)  >>**
+**[<<  ตอนก่อนหน้า จุดเริ่มต้นของปัญหา](README.md) | [ตอนต่อไป เมื่อ Server ใหม่มาถึง](new-server-comming.md)  >>**
+
+[![Analytics](https://ga-beacon.appspot.com/UA-79032210-1/ep1?pixel)](fungjai-infra-2.md)
